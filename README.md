@@ -17,7 +17,7 @@ Email Me 👉 ✉️ **prathameshvshenoy@gmail.com** For Collaboration/Project o
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=prathamesh564&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prathamesh564&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathamesh564&theme=radical)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
