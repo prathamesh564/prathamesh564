@@ -1,4 +1,8 @@
-# 💫 About Me:
+# 💫 Hi 👋, I'm Prathamesh V Shenoy
+**A passionate Full Stack Engineer || .NET Hands On Experience || Pursuing my BE at Sahyadri College of Engineering And Management**
+
+Email Me 👉 ✉️ **prathameshvshenoy@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
 🔭 I’m currently working on Full Stack Web Development projects<br>🤝 I’m looking to collaborate on Open Source projects<br>🫱🏻‍🫲🏼 I’m looking for help with Advanced Backend Development & System Design<br>🌱 I’m currently learning React, Node.js, SQL, Cloud & Data Structures<br>💬 Ask me about Java, JavaScript, Web Development, SQL, GitHub<br>⚡ Fun fact: I love building projects and solving coding problems
 
 
@@ -17,6 +21,13 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=prathamesh564&limit=5&theme=dark&combine_all_yearly_contributions=true)
